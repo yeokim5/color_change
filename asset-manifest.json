@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color_change/static/css/main.b12bfa2f.css",
+    "main.js": "/color_change/static/js/main.e3c02615.js",
+    "index.html": "/color_change/index.html",
+    "main.b12bfa2f.css.map": "/color_change/static/css/main.b12bfa2f.css.map",
+    "main.e3c02615.js.map": "/color_change/static/js/main.e3c02615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b12bfa2f.css",
+    "static/js/main.e3c02615.js"
+  ]
+}
